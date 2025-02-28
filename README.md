@@ -1,4 +1,4 @@
-# R57 Shell - Usage and Effects on Servers
+# R57 Shell - Updated Version Works on All PHP Versions and Its Usage and Effects on Servers
 
 ## Images
 
