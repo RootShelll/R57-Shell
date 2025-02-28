@@ -51,11 +51,3 @@ Para detectar y prevenir R57 Shell, puedes seguir los siguientes pasos:
 > **Nota:** Asegúrate de reemplazar el enlace de la imagen con uno válido si necesitas añadir alguna.
 
 ```
-
-Bu içerik, GitHub için uygun şekilde formatlanmıştır. 
-
-- Kod blokları için ````php` gibi uygun etiketler kullanılmıştır.
-- Uyarılar ve bilgilendirmeler `> **Texto**` formatıyla belirgin hale getirilmiştir.
-- Resim eklemek için örnek bir URL kullanılmıştır, resim dosyanız varsa onu buraya ekleyebilirsiniz.
-
-Yine başka bir düzenleme yapmamı ister misiniz?
