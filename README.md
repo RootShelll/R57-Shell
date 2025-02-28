@@ -1,5 +1,10 @@
 # R57 Shell - Uso y Efectos en los Servidores
 
+
+## Imágenes
+
+![R57 Shell](https://r00t-shell.com/wp-content/uploads/2025/02/R57-Shell.png) 
+
 💻 **Un análisis detallado sobre Ciberseguridad y Seguridad Web**
 
 ## ¿Qué es R57?
@@ -44,9 +49,6 @@ Para detectar y prevenir R57 Shell, puedes seguir los siguientes pasos:
 
 > ✅ **Consejo:** Utiliza un Cortafuegos de Aplicaciones Web (WAF) para bloquear el tráfico malicioso.
 
-## Imágenes
-
-![R57 Shell](https://example.com/imagen.png) 
 
 > **Nota:** Asegúrate de reemplazar el enlace de la imagen con uno válido si necesitas añadir alguna.
 
