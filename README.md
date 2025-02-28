@@ -1,6 +1,3 @@
-İşte içeriğinizi GitHub `README.md` formatına uyarlanmış hali. Kodu kopyalanabilir yapmak için her kod bloğu için uygun Markdown formatı kullanıldı, uyarılar ve bilgilendirmeler de dikkatlice vurgulandı. Resimler de yerleştirildi.
-
-```markdown
 # R57 Shell - Uso y Efectos en los Servidores
 
 💻 **Un análisis detallado sobre Ciberseguridad y Seguridad Web**
