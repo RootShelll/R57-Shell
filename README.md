@@ -50,4 +50,4 @@ Para detectar y prevenir R57 Shell, puedes seguir los siguientes pasos:
 
 > **Nota:** Asegúrate de reemplazar el enlace de la imagen con uno válido si necesitas añadir alguna.
 
-```
+
