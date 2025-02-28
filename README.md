@@ -50,6 +50,3 @@ To detect and prevent R57 Shell, you can follow these steps:
 
 
 > **Note:** Make sure to replace the image link with a valid one if you need to add any.
-```
-
-This is the translated version with the same structure and format, making it suitable for GitHub's `README.md`. If you need further modifications or additions, feel free to ask!
