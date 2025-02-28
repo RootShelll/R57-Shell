@@ -1,29 +1,28 @@
-# R57 Shell - Uso y Efectos en los Servidores
+# R57 Shell - Usage and Effects on Servers
 
+## Images
 
-## Imágenes
+![R57 Shell](https://r00t-shell.com/wp-content/uploads/2025/02/R57-Shell.png)
 
-![R57 Shell](https://r00t-shell.com/wp-content/uploads/2025/02/R57-Shell.png) 
+💻 **A Detailed Analysis on Cybersecurity and Web Security**
 
-💻 **Un análisis detallado sobre Ciberseguridad y Seguridad Web**
+## What is R57?
 
-## ¿Qué es R57?
+R57 Shell is a type of **web shell** commonly used by malicious actors. This PHP-based ability allows attackers to control a server remotely. Web shells are used for tasks such as file management, command execution, and data theft on servers.
 
-R57 Shell es un tipo de **web shell** comúnmente utilizado por actores maliciosos. Esta capacidad basada en PHP permite a los atacantes controlar un servidor de forma remota. Los web shells se utilizan para tareas como la gestión de archivos, la ejecución de comandos y el robo de datos en los servidores.
+## What Can R57 Do on a Server?
 
-## ¿Qué Puede Hacer R57 en un Servidor?
+When R57 Shell is uploaded to a server, it can perform the following actions:
 
-Cuando se sube R57 Shell a un servidor, puede realizar las siguientes acciones:
+- 📂 **File Management:** Uploading, downloading, editing, and deleting files.
+- 🖥️ **Command Execution:** Running operating system-level commands on the server.
+- 📊 **Database Management:** Accessing databases and executing SQL queries.
+- 🔍 **Gathering Server Information:** Viewing server details such as the operating system, PHP version, and configuration.
+- 🚪 **Creating Backdoors:** Setting up backdoors for future access.
 
-- 📂 **Gestión de Archivos:** Subir, descargar, editar y eliminar archivos.
-- 🖥️ **Ejecutar Comandos:** Ejecutar comandos a nivel del sistema operativo en el servidor.
-- 📊 **Gestión de Bases de Datos:** Acceder a bases de datos y ejecutar consultas SQL.
-- 🔍 **Recopilación de Información del Servidor:** Ver detalles del servidor como el sistema operativo, la versión de PHP y la configuración.
-- 🚪 **Crear Backdoors:** Establecer backdoors para acceder en el futuro.
+## How to Use R57
 
-## Cómo Utilizar R57
-
-R57 Shell generalmente se sube al servidor como un archivo PHP. El atacante ejecuta este archivo para controlar el servidor a través de una interfaz web. Aquí tienes un ejemplo:
+R57 Shell is typically uploaded to a server as a PHP file. The attacker executes this file to control the server through a web-based interface. Here’s an example:
 
 ```php
 <?php
@@ -34,22 +33,23 @@ if (isset($_POST['cmd'])) {
 ?>
 ```
 
-Este código proporciona una función de ejecución de comandos. Un atacante puede usar este código para ejecutar comandos en el servidor.
+This code provides a command execution feature. An attacker can use this code to execute commands on the server.
 
-## Detección y Prevención de R57
+## Detection and Prevention of R57
 
-> ⚠️ **Advertencia:** Capacidades como R57 Shell se utilizan para actividades ilegales y suponen serios riesgos de seguridad. Si detectas este tipo de archivo en tu servidor, debes eliminarlo inmediatamente.
+> ⚠️ **Warning:** Abilities like R57 Shell are used for illegal activities and pose serious security risks. If you detect such a file on your server, you should remove it immediately.
 
-Para detectar y prevenir R57 Shell, puedes seguir los siguientes pasos:
+To detect and prevent R57 Shell, you can follow these steps:
 
-- 🔒 **Arreglar Vulnerabilidades de Seguridad:** Parchar regularmente las vulnerabilidades de seguridad en tu aplicación web.
-- 🛡️ **Controles de Subida de Archivos:** Comprobar el tipo y el contenido de los archivos subidos.
-- 🔍 **Análisis de Registros:** Revisar los registros del servidor para identificar actividades sospechosas.
-- 🧹 **Escaneo de Archivos:** Escanear y eliminar archivos PHP sospechosos en el servidor.
+- 🔒 **Fix Security Vulnerabilities:** Regularly patch security vulnerabilities in your web application.
+- 🛡️ **File Upload Controls:** Check the type and content of uploaded files.
+- 🔍 **Log Analysis:** Review server logs to identify suspicious activities.
+- 🧹 **File Scanning:** Scan and remove suspicious PHP files on the server.
 
-> ✅ **Consejo:** Utiliza un Cortafuegos de Aplicaciones Web (WAF) para bloquear el tráfico malicioso.
-
-
-> **Nota:** Asegúrate de reemplazar el enlace de la imagen con uno válido si necesitas añadir alguna.
+> ✅ **Tip:** Use a Web Application Firewall (WAF) to block malicious traffic.
 
 
+> **Note:** Make sure to replace the image link with a valid one if you need to add any.
+```
+
+This is the translated version with the same structure and format, making it suitable for GitHub's `README.md`. If you need further modifications or additions, feel free to ask!
